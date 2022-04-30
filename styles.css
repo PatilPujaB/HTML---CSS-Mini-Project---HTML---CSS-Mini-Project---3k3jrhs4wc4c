@@ -50,11 +50,11 @@ main {
 }
 
 #landing-text h2 {
-  color: #888;
+  color: rgb(136, 136, 136);
 }
 
 #landing-image {
-  background: url(https://source.unsplash.com/De8wMYoSSBc);
+  background: url(https://www.swedishnomad.com/wp-content/images/2019/03/Varldens-sju-underverk.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
